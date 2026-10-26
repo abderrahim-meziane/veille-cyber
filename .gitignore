@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Dépendances
+node_modules/
+
+# Fichiers générés
+*.txt
+*.log
